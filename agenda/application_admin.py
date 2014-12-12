@@ -24,4 +24,3 @@ class MyApplicationAdmin(ApplicationAdmin):
                           Icon('tango/22x22/categories/preferences-system.png'),
                           items = [Memento, Translation] )
                 ]
-    
