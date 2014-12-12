@@ -5,8 +5,8 @@ from camelot.admin.entity_admin import EntityAdmin
 from camelot.core.orm import Entity
 import camelot.types
 import sqlalchemy.types
-    
-class Movie(Entity):
+    #agregada clase Movie
+class Movie(Entity):                                      
 
     __tablename__ = 'movie'
 
